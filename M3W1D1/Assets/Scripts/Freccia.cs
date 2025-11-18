@@ -5,6 +5,7 @@ using UnityEngine;
 public class Freccia : Proiettile
 {
     public int numeroFrecceSimultanee;
+
     public override void Lancia()
     {
         Debug.Log("Feccia scoccata");

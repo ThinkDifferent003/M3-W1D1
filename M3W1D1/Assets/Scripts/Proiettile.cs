@@ -6,6 +6,8 @@ public class Proiettile : MonoBehaviour
 {
     public float velocità;
     public float gittata;
+
+
     public virtual void Lancia()
     {
 
